@@ -1,6 +1,20 @@
-div p {
-    background-color: yellow;
-    color: red;
+/* div p { */
+/*     background-color: yellow; */
+/*     color: red; */
+/*     font-size: 20px; */
+/*     text-align: center; */
+/* } */
+
+/* div .text { */
+/*     background-color: #ffea8f; */
+/*     color: #ff0000; */
+/*     font-size: 20px; */
+/*     text-align: center; */
+/* } */
+
+.container .text {
+    background-color: #faeb1f;
+    color: #fb0000;
     font-size: 20px;
     text-align: center;
 }
